@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repos\\Computer Graphic\\Lab3RayTracing\\",
+  "WorkspaceRootPath": "D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|d:\\repos\\computer graphic\\lab3raytracing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|d:\\repos\\computer graphic\\lab3raytracing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|d:\\repos\\computer graphic\\lab3raytracing\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D117BD88-6E7D-4A27-930B-D2272927079E}|Lab3RayTracing.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\Lab3RayTracing\\Form1.cs",
+              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Repos\\Computer Graphic\\Lab3RayTracing\\Form1.cs",
+              "ToolTip": "D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T14:32:53.008Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "View.cs",
-              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\Lab3RayTracing\\View.cs",
+              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\View.cs",
               "RelativeDocumentMoniker": "View.cs",
-              "ToolTip": "D:\\Repos\\Computer Graphic\\Lab3RayTracing\\View.cs",
+              "ToolTip": "D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\View.cs",
               "RelativeToolTip": "View.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T14:32:10.721Z",
               "EditorCaption": ""
@@ -54,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\Lab3RayTracing\\Form1.cs",
+              "DocumentMoniker": "D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Repos\\Computer Graphic\\Lab3RayTracing\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\Repos\\Computer Graphic\\CG-Lab3\\Lab3RayTracing\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T14:30:35.784Z",
